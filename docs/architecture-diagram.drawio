@@ -1,0 +1,28 @@
+# Diagram
+
+Channel -> Twilio -> Gemini Flash (FC) -> Action -> Execution -> Gemini Flash (CG) -> Twilio -> Channel
+                                             ^   |
+                                             |   V
+                                    Internal/External APIs/apps
+
+Technologies
+- Channel: WhatsApp
+- Cloud: AWS/GCP
+- Runtime/language: JS/TS/Python
+  - Docker
+  - Deployment
+- Auth?
+- Storage: PostgreSQL, AWS S3 (audio, images, videos, documents, etc)
+- Website: Astro
+  - Deployment: Cloudflare/GH Pages
+
+## Internal APIs
+
+- Lack of Response Timer: save timestamp, set a timer and callback execution remembering user
+
+## External APIs
+
+Examples:
+- Payment
+- Events
+- ...

@@ -1,28 +1,33 @@
 # Enterprise Challenge - Solubio
 
-## Project Overview
-The **Enterprise Challenge - Solubio** aims to develop a smart, AI-powered chatbot named "Dra. Jô" for Solubio. This chatbot will assist with a variety of tasks, including customer service, appointment scheduling, sales inquiries, and technical support. The solution will be designed to meet Solubio's business requirements while ensuring scalability, ease of use, and operational efficiency.
+The **Enterprise Challenge - Solubio** project focuses on creating "Dra. Jô," a sophisticated, AI-driven chatbot designed to enhance Solubio’s customer service experience. It can be extended to implement capabilities like automated scheduling, sales support, and technical assistance, Dra. Jô will streamline customer interactions and boost operational efficiency. This solution will be built for scalability, ease of use, and adaptability to Solubio's evolving business needs.
 
-## Objectives
-The goal is to create a personalized and efficient chatbot that enhances customer experience by:
-- Collecting customer information.
-- Scheduling appointments with Dra. Jô.
-- Responding to frequently asked questions about Solubio’s services.
+## Purpose
 
-The chatbot will ensure that users can access essential information quickly and conveniently, improving overall customer satisfaction and operational efficiency.
+To develop a multi-functional AI chatbot tailored to optimize customer interactions and service processes.
+
+## Project Goals
+
+- **Enhance User Experience**: Provide a pleasant and efficient experience through natural-language communication.
+- **Reduce Response Time**: Minimize customer wait times by automating responses.
+- **Ensure Quality Interactions**: Deliver reliable, accurate responses that meet high standards for service quality.
 
 ## Scope
 
-The chatbot will be powered by AI/NLP technologies and will be accessible via **WhatsApp** and **Solubio's website**. It will have the following capabilities:
+It will support the following features:
 
-* **Natural Language Understanding (NLU)**: The chatbot will comprehend user intent even with colloquial language or minor grammatical errors.
-* **Provide Relevant Information**: It will answer frequently asked questions related to Solubio’s services, business hours, locations, and other key details.
-* **Appointment Scheduling**: The bot will collect client details and suggest optimal dates and times for consultations with Dra. Jô.
-* **Collect Feedback**: It will gather user feedback on chatbot interactions and Solubio’s services to improve future engagements.
+- **Natural Language Understanding**: Interpret and respond to user queries in a conversational style.
+- **Intent Recognition**: Accurately identify user needs to provide relevant solutions.
+- **API Integration Capability**: Ability to connect to both internal and external APIs to retrieve and process information.
+- **Dynamic Response Generation**: Generate tailored responses to users’ queries based on context.
+- **Data Logging**: Record messages, actions, and responses for analysis and future optimization.
+
+**Out-of-Scope**: Complex state management or conversation memory across sessions.
 
 ## Repository Structure
-- **pm/**: Project management files, including sprint documentation, roadmap, backlog, and to-do lists.
-- **docs/**: Technical documentation, including architecture diagrams, solution requirements, and design decisions.
+
+- **pm/**: Project management resources, including sprint documentation, the project roadmap, backlog, and to-do lists.
+- **docs/**: Technical documentation, covering architecture diagrams, solution requirements, and design rationales.
 
 ## Team Members
 - Bruno Conterato (RM561048)
