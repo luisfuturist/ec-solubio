@@ -22,7 +22,7 @@ It will support the following features:
 - **Dynamic Response Generation**: Generate tailored responses to users’ queries based on context.
 - **Data Logging**: Record messages, actions, and responses for analysis and future optimization.
 
-**Out-of-Scope**: Complex state management or conversation memory across sessions.
+**Out-of-Scope**: Complex state management, conversation memory across sessions or authentication.
 
 ## Repository Structure
 
