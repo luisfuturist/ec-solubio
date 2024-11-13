@@ -1,5 +1,7 @@
 # Enterprise Challenge - Solubio
 
+> This project is part of the **Artificial Intelligence** course offered by [FIAP](https://github.com/fiap) - Online 2024. This repository includes resources for the **Enterprise Challenge - Solubio**.
+
 The **Enterprise Challenge - Solubio** project focuses on creating "Dra. Jô," a sophisticated, AI-driven chatbot designed to enhance Solubio’s customer service experience. It can be extended to implement capabilities like automated scheduling, sales support, and technical assistance, Dra. Jô will streamline customer interactions and boost operational efficiency. This solution will be built for scalability, ease of use, and adaptability to Solubio's evolving business needs.
 
 ## Purpose
