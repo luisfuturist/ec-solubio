@@ -34,6 +34,7 @@ It will support the following features:
 
 - [Architecture Description](./docs/architecture-description.md)
 - [Cost Estimates](./docs/cost-estimates.md)
+- [Expected Results](./docs/expected-results.md)
 
 ## Repository Structure
 
