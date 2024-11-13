@@ -24,6 +24,15 @@ It will support the following features:
 
 **Out-of-Scope**: Complex state management, conversation memory across sessions or authentication.
 
+## Resources
+
+- [Architecture Diagram](./docs/architecture-diagram.drawio)
+
+    <a href="./docs/architecture-diagram.drawio.png"><img src="./docs/architecture-diagram.drawio.png" width="128" /></a>
+
+- [Architecture Description](./docs/architecture-description.md)
+- [Cost Estimates](./docs/cost-estimates.md)
+
 ## Repository Structure
 
 - **pm/**: Project management resources, including sprint documentation, the project roadmap, backlog, and to-do lists.
